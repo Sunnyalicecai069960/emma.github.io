@@ -1,9 +1,9 @@
 ## Tingting Cai
 
 ### Education
-+	2013-2017 		Beijing Jiaotong University ,China		Software Engineering 	
-+	2016-2017 		Wilfrid Laurier University ,Canada	  Exchange Student 	
-+	2017-2020		  Sun Yat-sen Univeristy ,China		      Computer Science
++	2013-2017 		Beijing Jiaotong University in China	,	Software Engineering 	
++	2016-2017 		Wilfrid Laurier University in Canada	 ,Exchange Student 	
++	2017-2020		  Sun Yat-sen Univeristy in China		  ,   Computer Science
 
 ### Internship&Competition
 ####	Joint Laboratory for IBM and Donghua     Java Intern     2016.5-2016.8
