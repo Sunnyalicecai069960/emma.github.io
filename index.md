@@ -1,10 +1,10 @@
 ## Tingting Cai
-
+!(https://github.com/Sunnyalicecai069960/emma.github.io/blob/master/%E5%9B%BE%E7%89%87.jpg)
 
 ### Education
-+	2013-2017 		Beijing Jiaotong University,China		Software Engineering 	
-+	2016-2017 		Wilfrid Laurier University,Canada	  Exchange Student 	
-+	2017-2020		  Sun Yat-sen Univeristy,China		    Computer Science
++	2013-2017 		Beijing Jiaotong University ,China		Software Engineering 	
++	2016-2017 		Wilfrid Laurier University ,Canada	  Exchange Student 	
++	2017-2020		  Sun Yat-sen Univeristy ,China		      Computer Science
 
 ### Internship&Competition
 ####	Joint Laboratory for IBM and Donghua     Java Intern     2016.5-2016.8
