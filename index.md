@@ -1,5 +1,4 @@
 ## Tingting Cai
-![Emma](https://github.com/Sunnyalicecai069960/emma.github.io/blob/master/%E5%9B%BE%E7%89%87.jpg =100*100)
 
 ### Education
 +	2013-2017 		Beijing Jiaotong University ,China		Software Engineering 	
